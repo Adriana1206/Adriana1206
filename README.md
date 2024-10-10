@@ -2,7 +2,9 @@
 Hi! I'm a **Web Developer** passionate about **technology** and **web development**. 
 ---
 
-<img src="./img.webp" alt="Image" width="300">
+<div align="center">
+  <img src="./img.webp" alt="Image" width="400">
+</div>
 
 ---
 
@@ -31,7 +33,6 @@ Hi! I'm a **Web Developer** passionate about **technology** and **web developmen
 # 🌐 Contact me:
 I'm always happy to connect with other developers and professionals. Feel free to reach out via LinkedIn or email!
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adriana-piccione-86288b114/)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adriana-piccione-86288b114/)
 [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:piccioneadriana@gmail.com)
-</div>
+
