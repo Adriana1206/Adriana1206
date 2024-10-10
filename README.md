@@ -1,14 +1,14 @@
-# 👩‍💻About me:
-Web developer passionate about technology and web development
+# 👩‍💻 About me:
+Hi! I'm a **Web Developer** passionate about **technology** and **web development**. 
+---
 
-###
+<img src="./img.webp" alt="Image" width="300">
 
-![Image](./img.webp)
-
-###
+---
 
 # 💻 Skills:
-<div align="left">
+
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -20,10 +20,18 @@ Web developer passionate about technology and web development
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-###
+---
 
-# 🌐 Contact:
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adriana-piccione-86288b114/)
-[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:piccioneadriana@gmail.com)
+# 🚀 Projects:
+- **[SicilyPulse](https://sicily-pulse-iota.vercel.app/)**
+- **[AI-Story-Teller](https://ai-story-teller-gules.vercel.app/)**
 
+---
 
+# 🌐 Contact me:
+I'm always happy to connect with other developers and professionals. Feel free to reach out via LinkedIn or email!
+
+<div align="center">
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adriana-piccione-86288b114/)
+  [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:piccioneadriana@gmail.com)
+</div>
