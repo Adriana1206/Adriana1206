@@ -33,5 +33,5 @@ I'm always happy to connect with other developers and professionals. Feel free t
 
 <div align="center">
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adriana-piccione-86288b114/)
-  [![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:piccioneadriana@gmail.com)
+[![Email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:piccioneadriana@gmail.com)
 </div>
