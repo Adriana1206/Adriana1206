@@ -1,6 +1,11 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=10000&color=0047ab&random=false&width=435&lines=%3Ch1%3EHello+World!%3C%2Fh1%3E)](https://git.io/typing-svg)
 
-Hi! 👩‍💻 I'm a **Web Developer** passionate about **technology** and **web development**. 
+Hi! 👩‍💻 I'm a **Web Developer** passionate about **technology** and **web development**.
+
+</div>
+
 
 <div align="center">
   <img src="./img.webp" alt="Image" width="400">
